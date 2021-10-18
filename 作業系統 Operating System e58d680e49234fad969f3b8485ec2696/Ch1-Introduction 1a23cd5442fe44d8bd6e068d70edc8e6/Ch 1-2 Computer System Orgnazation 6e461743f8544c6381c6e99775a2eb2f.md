@@ -7,7 +7,7 @@
 一個電腦系統包含
 一個**中央處理器(CPU)**和
 多個**裝置控制器(Device Controller)**
-它們之間由**匯流排** **(Bus)** 串聯起來
+它們之間由**匯流排(Bus)**串聯起來
 
 ![Untitled](Ch%201-2%20Computer%20System%20Orgnazation%206e461743f8544c6381c6e99775a2eb2f/Untitled.png)
 
